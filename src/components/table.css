@@ -1,0 +1,30 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+
+table {
+    width: 50%;
+
+}
+
+td,
+th,
+tr {
+    border: 1px solid #272626;
+    text-align: center;
+    padding: 6px;
+
+}
+
+input {
+    width: 80px;
+
+}
+
+.total {
+    color: red;
+
+}
